@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mongodb-developer-mcp-mongodb-atlas-badge.png)](https://mseep.ai/app/mongodb-developer-mcp-mongodb-atlas)
+
 <h2 align="center">
   📢 <strong>COMMUNITY SERVER NOTICE</strong><br/>
   This is a community-maintained MCP Server.<br/>
